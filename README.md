@@ -84,5 +84,3 @@ Make a prediction:
 ```bash
 python predict.py
 ```
-
-**Note:** The dataset contains made-up values. This project is for learning purposes and doesn't predict real taxi fares.
